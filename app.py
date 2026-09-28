@@ -9,7 +9,7 @@ import google.generativeai as genai
 import streamlit as st
 
 # ---------------- সেটিংস ----------------
-MODEL_NAME = "gemini-2.0-flash"  # AI Studio তে যে ফ্রি মডেল চলে সেই নাম দাও
+MODEL_NAME = "gemini-3.8-flash" # AI Studio তে যে ফ্রি মডেল চলে সেই নাম দাও
 VOICES = {
     "বাংলা": ("bn-BD-NabanitaNeural", "bn-BD-PradeepNeural"),
     "English": ("en-US-AriaNeural", "en-US-GuyNeural"),
