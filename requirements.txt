@@ -1,6 +1,0 @@
-streamlit
-google-generativeai
-pymupdf
-edge-tts
-moviepy==1.0.3
-pillow
